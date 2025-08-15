@@ -50,4 +50,4 @@ Crie um arquivo chamado .env na raiz do projeto.
 
 Groq API Key: Você pode obter a sua chave em https://console.groq.com/keys.
 
-Serper API Key: Você pode obter a sua chave em https://serper.dev/.
+Serper API Key: Você pode obter a sua chave em https://serpapi.com/users/sign_in
